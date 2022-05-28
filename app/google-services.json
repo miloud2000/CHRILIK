@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408731516993",
+    "project_id": "chrilik-1217c",
+    "storage_bucket": "chrilik-1217c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408731516993:android:f891c5830c5ae6462dc6c0",
+        "android_client_info": {
+          "package_name": "com.dhruva.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408731516993-ei4iuojoi7kqsq82e5cnhihd7arlderd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvGirAxPmI1vDi0e-yhtXsJlQCmHlQIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408731516993-ei4iuojoi7kqsq82e5cnhihd7arlderd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
